@@ -4,6 +4,8 @@ This is a very simple NPC system created for developers to use in whatever case 
 
 But usage as of right now is as simple as making a new file in the **npcs/** folder and follow the _example.lua_ file.
 
+I've always wanted to make resources to release publically and this'll be a step towards that. This resource shouldn't effect your FPS at all and uses "RegisterKeyMapping" and Raycasting to handle interactions. This was all created in FxDK.
+
 ```lua
 local exampleNPC = {}
 -- Name of the NPC
